@@ -20,7 +20,7 @@ user:`root` passowrd:`root`
 
 Other
 -----
-`ubuntu/trusty64` can be should download from https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/  
+You can download box `ubuntu/trusty64` from https://mirrors.tuna.tsinghua.edu.cn/ubuntu-cloud-images/vagrant/trusty/  .
 
 add box 
 ```
