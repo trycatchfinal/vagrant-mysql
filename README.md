@@ -16,7 +16,7 @@ $ vagrant up
 ```
 #### Connecting
 Mysql   
-user:`root` passowrd:`root`
+user:`root` password:`root`
 
 Other
 -----
