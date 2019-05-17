@@ -4,7 +4,7 @@
 # 2 为vagrant配置文件的版本
 Vagrant.configure("2") do |config|
 
-   config.vm.box = "ubuntu/trusty"
+   config.vm.box = "ubuntu/trusty64"
 
   # 网络配置参考：https://ninghao.net/blog/2079
   # 端口转发
